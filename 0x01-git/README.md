@@ -1,1 +1,1 @@
-conveying a message through texr
+conveying a message through text
